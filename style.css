@@ -2,3 +2,36 @@
     margin: 0px;
     padding: 0px;
 }
+.header{
+    background: #4b0082;
+    height: 100vh;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    column-gap: 30px;
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: yellow;
+}
+.header_item{  
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ 
